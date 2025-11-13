@@ -1,0 +1,7 @@
+
+Git -> version control system that help to track changes in code and manage version of project.
+
+GitHub ->
+
+->Online Plateform (Website) that stores our git repositories.
+->Il Allows multiple people to work together on the same project using git.
